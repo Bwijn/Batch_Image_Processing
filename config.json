@@ -1,7 +1,8 @@
 {
-    "work_path": "C:/Users/bwijn/Downloads/ImageAssistant_Batch_Image_Downloader/qunnes-shop.com/独立站",
+    "work_path": "C:/Users/bwijn/Downloads/ImageAssistant_Batch_Image_Downloader/qunnes-shop.com/眼袋",
     "output_path": "C:/Users/bwijn/Desktop/image",
-    "MIN_COLOR_PALETTE": 64,
+    "MIN_COLOR_PALETTE": 40,
     "MAX_SIZE_MB": 3,
-    "MIN_FRAMES": 3
+    "MIN_FRAMES": 3,
+    "Version": "1.0.0"
 }
